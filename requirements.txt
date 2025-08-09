@@ -1,5 +1,6 @@
 # LangChain Core
 langchain
+langchain-community
 langchain-core
 
 # OpenAI Integration
@@ -31,3 +32,6 @@ streamlit
 
 pydantic
 pydantic[email]
+pypdf
+bs4
+duckdb
