@@ -2,6 +2,7 @@
 langchain
 langchain-community
 langchain-core
+langchain_experimental
 
 # OpenAI Integration
 langchain-openai
@@ -35,3 +36,4 @@ pydantic[email]
 pypdf
 bs4
 duckdb
+faiss-cpu
